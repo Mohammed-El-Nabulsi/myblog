@@ -1,1 +1,1 @@
-Sitemap: https://mohammed-el-nabulsi.github.io/myblog/sitemap.xml
+Sitemap: https://moki.sh/sitemap.xml
